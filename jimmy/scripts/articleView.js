@@ -103,7 +103,7 @@ articleView.create = () => {
     author: $('#article-author').val(),
     authorUrl: $('#article-author-url').val(),
     category: $('#article-category').val(),
-    publishedOn: $('#artilcle-published').val(),
+    publishedOn: $('#article-published').val(),
     body: $('#article-body').val()
   })
 
